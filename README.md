@@ -1,8 +1,6 @@
 # rayonday776.github.io
 
-Ce dépôt sert le site GitHub Pages : https://rayonday776.github.io/
-
-## Jeu 4X (prototype)
+Ce dépôt sert le site GitHub Pages : https://rayonday776-sketch.github.io/rayonday776.github.io/
 
 Le code du prototype 4X est organisé dans ce dépôt et sera publié sur le site via GitHub Pages.
 

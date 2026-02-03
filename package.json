@@ -1,0 +1,10 @@
+{
+  "name": "essaie-4x",
+  "version": "0.1.0",
+  "description": "Mini 4X web prototype (2D flat map) with rules and AI first.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "dev": "python -m http.server 5173"
+  }
+}
